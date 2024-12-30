@@ -27,7 +27,7 @@
 
 ### Opzioni di Parcheggio a Linate
 
-| Da                     | A                      | Linate Shop                                                                                   |
+| Da                     | A                      |                                                                                   |
 |------------------------|------------------------|-------------------------------------------------------------------------------------------------------|
 | Sab. 05/07 14:00      | Gio. 10/07 00:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=LIN&checkInDate=05%2F07%2F2025&checkInTime=14%3A00&checkOutDate=10%2F07%2F2025&checkOutTime=00%3A30) |
 | Sab. 05/07 14:00      | Ven. 11/07 00:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=LIN&checkInDate=05%2F07%2F2025&checkInTime=14%3A00&checkOutDate=11%2F07%2F2025&checkOutTime=00%3A30) |
@@ -68,7 +68,7 @@
 
 ### Opzioni di Parcheggio a Malpensa
 
-| Da                     | A                      | Malpensa Shop                                                                                  |
+| Da                     | A                      |                                                                                  |
 |------------------------|------------------------|-------------------------------------------------------------------------------------------------------|
 | Sab. 05/07 12:00      | Mer. 09/07 22:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=MXP&checkInDate=05%2F07%2F2025&checkInTime=12%3A00&checkOutDate=09%2F07%2F2025&checkOutTime=22%3A30) |
 | Sab. 05/07 12:00      | Gio. 10/07 22:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=MXP&checkInDate=05%2F07%2F2025&checkInTime=12%3A00&checkOutDate=10%2F07%2F2025&checkOutTime=22%3A30) |
