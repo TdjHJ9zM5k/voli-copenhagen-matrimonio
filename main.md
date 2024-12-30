@@ -69,11 +69,4 @@
 
 <br>
 
----
-
-<br>
-
-## Contatti
-
-Per ulteriori informazioni, non esitate a contattare Davide o Francesca.
 
