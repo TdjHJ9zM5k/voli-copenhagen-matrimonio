@@ -60,12 +60,12 @@
 
 | Da                     | A                      | Milan Airport Shop                                                                                   |
 |------------------------|------------------------|-------------------------------------------------------------------------------------------------------|
-| Sab. 05/07 14:00      | Mer. 09/07 22:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=MXP&checkInDate=05%2F07%2F2025&checkInTime=14%3A00&checkOutDate=09%2F07%2F2025&checkOutTime=22%3A30) |
-| Sab. 05/07 14:00      | Gio. 10/07 22:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=MXP&checkInDate=05%2F07%2F2025&checkInTime=14%3A00&checkOutDate=10%2F07%2F2025&checkOutTime=22%3A30) |
-| Dom. 06/07 14:35      | Mer. 09/07 22:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=MXP&checkInDate=06%2F07%2F2025&checkInTime=14%3A35&checkOutDate=09%2F07%2F2025&checkOutTime=22%3A30) |
-| Dom. 06/07 14:35      | Gio. 10/07 22:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=MXP&checkInDate=06%2F07%2F2025&checkInTime=14%3A35&checkOutDate=10%2F07%2F2025&checkOutTime=22%3A30) |
-| Lun. 07/07 14:55      | Mer. 09/07 22:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=MXP&checkInDate=07%2F07%2F2025&checkInTime=14%3A55&checkOutDate=09%2F07%2F2025&checkOutTime=22%3A30) |
-| Lun. 07/07 14:55      | Gio. 10/07 22:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=MXP&checkInDate=07%2F07%2F2025&checkInTime=14%3A55&checkOutDate=10%2F07%2F2025&checkOutTime=22%3A30) |
+| Sab. 05/07 12:00      | Mer. 09/07 22:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=MXP&checkInDate=05%2F07%2F2025&checkInTime=12%3A00&checkOutDate=09%2F07%2F2025&checkOutTime=22%3A30) |
+| Sab. 05/07 12:00      | Gio. 10/07 22:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=MXP&checkInDate=05%2F07%2F2025&checkInTime=12%3A00&checkOutDate=10%2F07%2F2025&checkOutTime=22%3A30) |
+| Dom. 06/07 12:30      | Mer. 09/07 22:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=MXP&checkInDate=06%2F07%2F2025&checkInTime=12%3A30&checkOutDate=09%2F07%2F2025&checkOutTime=22%3A30) |
+| Dom. 06/07 12:30      | Gio. 10/07 22:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=MXP&checkInDate=06%2F07%2F2025&checkInTime=12%3A30&checkOutDate=10%2F07%2F2025&checkOutTime=22%3A30) |
+| Lun. 07/07 08:30      | Mer. 09/07 22:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=MXP&checkInDate=07%2F07%2F2025&checkInTime=08%3A30&checkOutDate=09%2F07%2F2025&checkOutTime=22%3A30) |
+| Lun. 07/07 12:30      | Gio. 10/07 22:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=MXP&checkInDate=07%2F07%2F2025&checkInTime=12%3A30&checkOutDate=10%2F07%2F2025&checkOutTime=22%3A30) |
 
 <br>
 
