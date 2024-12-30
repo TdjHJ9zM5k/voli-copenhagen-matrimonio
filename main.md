@@ -1,6 +1,6 @@
 # Voli e Parcheggi per il matrimonio di Davide e Francesca
 
-<br><br>
+<br>
 
 ## Linate
 
