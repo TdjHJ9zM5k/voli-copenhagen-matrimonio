@@ -1,12 +1,12 @@
-# **Voli e Parcheggi per il matrimonio di Davide e Francesca**
+# Voli e Parcheggi per il matrimonio di Davide e Francesca
 
 <br>
 
-## **Linate**
+## Linate
 
 <br>
 
-### **Andata**
+### Andata
 
 |                                                                | Data               | Orario           | Prezzo  | Compagnia | Prenotazione                                                                                             |
 |--------------------------------------------------------------------|--------------------|------------------|---------|-----------|---------------------------------------------------------------------------------------------------------|
@@ -16,7 +16,7 @@
 
 <br>
 
-### **Ritorno**
+### Ritorno
 
 |                                                                | Data               | Orario           | Prezzo  | Compagnia | Prenotazione                                                                                             |
 |--------------------------------------------------------------------|--------------------|------------------|---------|-----------|---------------------------------------------------------------------------------------------------------|
@@ -25,9 +25,9 @@
 
 <br>
 
-### **Opzioni di Parcheggio a Linate**
+### Opzioni di Parcheggio a Linate
 
-| Da                     | A                      | LIN-Airport Shop                                                                                   |
+| Da                     | A                      | Linate Shop                                                                                   |
 |------------------------|------------------------|-------------------------------------------------------------------------------------------------------|
 | Sab. 05/07 14:00      | Gio. 10/07 00:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=LIN&checkInDate=05%2F07%2F2025&checkInTime=14%3A00&checkOutDate=10%2F07%2F2025&checkOutTime=00%3A30) |
 | Sab. 05/07 14:00      | Ven. 11/07 00:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=LIN&checkInDate=05%2F07%2F2025&checkInTime=14%3A00&checkOutDate=11%2F07%2F2025&checkOutTime=00%3A30) |
@@ -42,11 +42,11 @@
 
 <br>
 
-## **Malpensa**
+## Malpensa
 
 <br>
 
-### **Andata**
+### Andata
 
 |                                                                | Data               | Orario           | Prezzo  | Compagnia | Prenotazione                                                                                             |
 |--------------------------------------------------------------------|--------------------|------------------|---------|-----------|---------------------------------------------------------------------------------------------------------|
@@ -57,7 +57,7 @@
 
 <br>
 
-### **Ritorno**
+### Ritorno
 
 |                                                                | Data               | Orario           | Prezzo  | Compagnia | Prenotazione                                                                                             |
 |--------------------------------------------------------------------|--------------------|------------------|---------|-----------|---------------------------------------------------------------------------------------------------------|
@@ -66,9 +66,9 @@
 
 <br>
 
-### **Opzioni di Parcheggio a Malpensa**
+### Opzioni di Parcheggio a Malpensa
 
-| Da                     | A                      | MXP-Airport Shop                                                                                  |
+| Da                     | A                      | Malpensa Shop                                                                                  |
 |------------------------|------------------------|-------------------------------------------------------------------------------------------------------|
 | Sab. 05/07 12:00      | Mer. 09/07 22:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=MXP&checkInDate=05%2F07%2F2025&checkInTime=12%3A00&checkOutDate=09%2F07%2F2025&checkOutTime=22%3A30) |
 | Sab. 05/07 12:00      | Gio. 10/07 22:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=MXP&checkInDate=05%2F07%2F2025&checkInTime=12%3A00&checkOutDate=10%2F07%2F2025&checkOutTime=22%3A30) |
