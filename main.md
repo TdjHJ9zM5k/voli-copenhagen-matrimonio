@@ -1,11 +1,9 @@
-
-
-
 # Voli e Parcheggi per il matrimonio di Davide e Francesca
 
 ### Indice
 - [Linate](#linate) 
 - [Malpensa](#malpensa)
+- [Bergamo](#bergamo)
 - [Torino](#torino)
 
 <br>
@@ -84,6 +82,45 @@
 | Dom. 06/07 12:30      | Gio. 10/07 22:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=MXP&checkInDate=06%2F07%2F2025&checkInTime=12%3A30&checkOutDate=10%2F07%2F2025&checkOutTime=22%3A30) |
 | Lun. 07/07 08:30      | Mer. 09/07 22:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=MXP&checkInDate=07%2F07%2F2025&checkInTime=08%3A30&checkOutDate=09%2F07%2F2025&checkOutTime=22%3A30) |
 | Lun. 07/07 12:30      | Gio. 10/07 22:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=MXP&checkInDate=07%2F07%2F2025&checkInTime=12%3A30&checkOutDate=10%2F07%2F2025&checkOutTime=22%3A30) |
+<br>
+
+---
+
+<br>
+
+## Bergamo
+
+
+### Andata
+
+|                                                                | Data               | Orario           | Prezzo  | Compagnia | Prenotazione                                                                                             |
+|--------------------------------------------------------------------|--------------------|------------------|---------|-----------|---------------------------------------------------------------------------------------------------------|
+| <img src="https://logos.skyscnr.com/images/airlines/favicon/FR.png"  width="28px" height="28px"> | Sab. 05/07        | 09:40 - 11:45    | **68€** | Ryanair       | [link acquisto](https://www.skyscanner.net/transport_deeplink/4.0/UK/it-IT/EUR/ryan/1/9884.10694.2025-07-05/air/airli/flights?booking_panel_option_guid=07e570f3-4aba-49a7-ae00-0acdabb55a27&cabin_class=economy&carriers=-31915&channel=website&client_id=skyscanner_website&commercial_filters=false&fare_type=base_fare&fps_session_id=cc9ad524-1ca7-4bcb-9e5b-c1cf93f2c333&index=1&is_acorn_referral=true&is_multipart=false&is_npt=false&isbp=1&itinerary=flight%7C-31915%7C2990%7C9884%7C2025-07-05T09%3A40%7C10694%7C2025-07-05T11%3A45%7C125%7C-%7C-%7CBASIC&operators=-30823&passengers=1&posidx=0&pqid=false&q_datetime_utc=2024-12-30T16%3A41%3A17&q_ids=H4sIAAAAAAAA_-OS4mIpqkzME2LmmOMrxcxxLFih4drCw2xGTAqMAL1a3QMcAAAA%7C-239710698748271538%7C1&q_sources=JACQUARD&qid=9884-2507050940--31915-0-10694-2507051145&request_id=c8d43a54-4e2a-48fc-974c-d978bab13f6d&sort=BEST&stops=0&tabs=CombinedDayView&ticket_price=67.53&pre_redirect_id=1313332b-3bdd-4a0c-a07d-9bb6323d6e91&redirect_id=e840e0bf-6d51-4ae9-86e9-26a14d3f85f2) |
+| <img src="https://logos.skyscnr.com/images/airlines/favicon/D8.png"  width="28px" height="28px"> | Dom. 06/07        | 18:25 - 20:25    | **44€** | Norwegian       | [link acquisto](https://www.skyscanner.net/transport_deeplink/4.0/UK/it-IT/EUR/norw/1/9884.10694.2025-07-06/air/airli/flights?booking_panel_option_guid=85d4f084-2494-41ed-9dca-9ff6eeeb5377&cabin_class=economy&carriers=-30685&channel=website&client_id=skyscanner_website&commercial_filters=false&fare_type=base_fare&fps_session_id=c0508b84-d9e4-4415-897e-8c51df97995b&index=0&is_acorn_referral=true&is_multipart=false&is_npt=false&isbp=1&itinerary=flight%7C-30685%7C3751%7C9884%7C2025-07-06T18%3A25%7C10694%7C2025-07-06T20%3A25%7C120%7C-%7CQ%7CLowFare&operators=-30685&passengers=1&posidx=3&pqid=false&q_datetime_utc=2024-12-30T23%3A46%3A54&q_ids=H4sIAAAAAAAA_-OS4mLJyy8qF2LmmOMrxcxxLFih4eeyw2xGTAqMACZCt68cAAAA%7C-6467213526963523266%7C1&q_sources=JACQUARD&qid=9884-2507061825--30685-0-10694-2507062025&request_id=5d149190-0f8b-4036-8826-0d989c26e665&sort=BEST&stops=0&tabs=CombinedDayView&ticket_price=43.44&pre_redirect_id=a81ec738-8e91-45d1-bbd1-75f8fae134ec&redirect_id=8124c754-ce39-4a57-a69a-edafc3b681ff) |
+| <img src="https://logos.skyscnr.com/images/airlines/favicon/FR.png"  width="28px" height="28px"> | Lun. 07/07        | 14:00 - 16:05    | **77€** | Ryanair       | [link acquisto](https://www.skyscanner.net/transport_deeplink/4.0/UK/it-IT/EUR/ryan/1/9884.10694.2025-07-07/air/airli/flights?booking_panel_option_guid=7774b639-9f89-4deb-9081-2d1b62914c69&cabin_class=economy&carriers=-31915&channel=website&client_id=skyscanner_website&commercial_filters=false&fare_type=base_fare&fps_session_id=1856d57b-6820-43ce-851e-881c7fec02c1&index=0&is_acorn_referral=true&is_multipart=false&is_npt=false&isbp=1&itinerary=flight%7C-31915%7C2990%7C9884%7C2025-07-07T14%3A00%7C10694%7C2025-07-07T16%3A05%7C125%7C-%7C-%7CBASIC&operators=-30823&passengers=1&posidx=0&pqid=false&q_datetime_utc=2024-12-30T23%3A47%3A06&q_ids=H4sIAAAAAAAA_-OS4mIpqkzME2LmmOMrxcxxLFihYc6aw2xGTAqMAFjlV9ocAAAA%7C1222320258052661211%7C1&q_sources=JACQUARD&qid=9884-2507071400--31915-0-10694-2507071605&request_id=a2a9b4a2-8630-4d5e-b79d-ccf27c65d083&sort=BEST&stops=0&tabs=CombinedDayView&ticket_price=76.56&pre_redirect_id=6719a658-7a0e-41de-9c4f-2eefd6a1ccb6&redirect_id=8bab747a-83c2-47aa-b78f-33b9d342e973) |
+
+<br>
+
+### Ritorno
+
+|                                                                | Data               | Orario           | Prezzo  | Compagnia | Prenotazione                                                                                             |
+|--------------------------------------------------------------------|--------------------|------------------|---------|-----------|---------------------------------------------------------------------------------------------------------|
+| <img src="https://logos.skyscnr.com/images/airlines/favicon/FR.png"  width="28px" height="28px"> | Mer. 09/07        | 14:50 - 17:00    | **139€** | Ryanair       | [link acquisto](https://www.skyscanner.net/transport_deeplink/4.0/UK/it-IT/EUR/ryan/1/10694.9884.2025-07-09/air/airli/flights?booking_panel_option_guid=0bb34a46-68a5-4d64-b103-f783b6c50e0c&cabin_class=economy&carriers=-31915&channel=website&client_id=skyscanner_website&commercial_filters=false&fare_type=base_fare&fps_session_id=9dcca6a1-77c7-438b-8223-612e42a2aa23&index=1&is_acorn_referral=true&is_multipart=false&is_npt=false&isbp=1&itinerary=flight%7C-31915%7C2989%7C10694%7C2025-07-09T14%3A50%7C9884%7C2025-07-09T17%3A00%7C130%7C-%7C-%7CBASIC&operators=-30823&passengers=1&posidx=0&pqid=false&q_datetime_utc=2024-12-30T19%3A07%3A25&q_ids=H4sIAAAAAAAA_-OS4mIpqkzME2LmOBYsxcwxx1eh4dG2w2xGTAqMAD8TcTQcAAAA%7C-3498906764548143978%7C1&q_sources=JACQUARD&qid=10694-2507091450--31915-0-9884-2507091700&request_id=dec6f437-3b70-48e8-8434-3707858c3691&sort=BEST&stops=0&tabs=CombinedDayView&ticket_price=138.28&pre_redirect_id=dae5603a-3ad2-401b-97f0-aa737ab52717&redirect_id=5ee399ee-5d1f-4636-93f9-6c27d8d65845) |
+| <img src="https://logos.skyscnr.com/images/airlines/favicon/FR.png"  width="28px" height="28px"> | Gio. 10/07        | 20:45 - 22:55    | **92€** | Ryanair       | [link acquisto](https://www.skyscanner.net/transport_deeplink/4.0/UK/it-IT/EUR/ryan/1/10694.9884.2025-07-10/air/airli/flights?booking_panel_option_guid=140d7009-5f00-454c-a3c9-f8ec81d32366&cabin_class=economy&carriers=-31915&channel=website&client_id=skyscanner_website&commercial_filters=false&fare_type=base_fare&fps_session_id=be4e706f-b95d-4dc9-b859-e0d6df4d23e3&index=2&is_acorn_referral=true&is_multipart=false&is_npt=false&isbp=1&itinerary=flight%7C-31915%7C2989%7C10694%7C2025-07-10T20%3A45%7C9884%7C2025-07-10T22%3A55%7C130%7C-%7C-%7CBASIC&operators=-30823&passengers=1&posidx=0&pqid=false&q_datetime_utc=2024-12-30T23%3A47%3A48&q_ids=H4sIAAAAAAAA_-OS4mIpqkzME2LmOBYsxcwxx1ehoXXPYTYjJgVGANPlL0ocAAAA%7C-8213060034986345768%7C1&q_sources=JACQUARD&qid=10694-2507102045--31915-0-9884-2507102255&request_id=a6849388-0f17-4539-85c1-abdd41c37ae0&sort=BEST&stops=0&tabs=CombinedDayView&ticket_price=91.05&pre_redirect_id=e8f96bf9-1c78-4fa5-b6f3-9de0585e3e5b&redirect_id=5a0e7f00-56bd-4eec-b516-7588f8a08b0c) |
+| <img src="https://logos.skyscnr.com/images/airlines/favicon/D8.png"  width="28px" height="28px"> | Gio. 10/07        | 12:20 - 14:20    | **119€** | Norwegian       | [link acquisto](https://www.skyscanner.net/transport_deeplink/4.0/UK/it-IT/EUR/norw/1/10694.9884.2025-07-10/air/airli/flights?booking_panel_option_guid=e5a608d4-fb1d-4b0d-9ac5-4bfc5ff1d173&cabin_class=economy&carriers=-30685&channel=website&client_id=skyscanner_website&commercial_filters=false&fare_type=base_fare&fps_session_id=d085a773-9545-445c-87dc-f5fc9dc5555f&index=0&is_acorn_referral=true&is_multipart=false&is_npt=false&isbp=1&itinerary=flight%7C-30685%7C3750%7C10694%7C2025-07-10T12%3A20%7C9884%7C2025-07-10T14%3A20%7C120%7C-%7CT%7CLowFare&operators=-30685&passengers=1&posidx=4&pqid=false&q_datetime_utc=2024-12-30T23%3A47%3A47&q_ids=H4sIAAAAAAAA_-OS4mLJyy8qF2LmOBYsxcwxx1ehoXXPYTYjJgVGADyztAMcAAAA%7C6056180338346012448%7C1&q_sources=JACQUARD&qid=10694-2507101220--30685-0-9884-2507101420&request_id=f7612900-1ed3-42f6-a4a6-056edef3dbc8&sort=BEST&stops=0&tabs=CombinedDayView&ticket_price=119.00&pre_redirect_id=3ac10704-4f0a-4a4e-ba44-3469d9aeacf2&redirect_id=f47c5c8d-74e5-4fc8-834f-06bc0e91170f) |
+
+<br>
+
+### Opzioni di Parcheggio a Bergamo
+
+| Da                     | A                      |                                                                                  |
+|------------------------|------------------------|-------------------------------------------------------------------------------------------------------|
+| Sab. 05/07 06:30      | Mer. 09/07 20:00      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=BGY&checkInDate=05/07/2025&checkInTime=06:30&checkOutDate=09/07/2025&checkOutTime=20:00) |
+| Sab. 05/07 06:30      | Ven. 11/07 00:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=BGY&checkInDate=05/07/2025&checkInTime=06:30&checkOutDate=11/07/2025&checkOutTime=00:30) |
+| Dom. 06/07 15:30      | Mer. 09/07 20:00      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=BGY&checkInDate=06/07/2025&checkInTime=15:30&checkOutDate=09/07/2025&checkOutTime=20:00) |
+| Dom. 06/07 15:30      | Ven. 11/07 00:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=BGY&checkInDate=06/07/2025&checkInTime=15:30&checkOutDate=11/07/2025&checkOutTime=00:30) |
+| Lun. 07/07 11:00      | Mer. 09/07 20:00      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=BGY&checkInDate=07/07/2025&checkInTime=11:00&checkOutDate=09/07/2025&checkOutTime=20:00) |
+| Lun. 07/07 11:00      | Ven. 11/07 00:30      | [link acquisto](https://www.milanairports-shop.com/it/search/parking?product=PARK&airport=BGY&checkInDate=07/07/2025&checkInTime=11:00&checkOutDate=11/07/2025&checkOutTime=00:30) |
 
 <br>
 
