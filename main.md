@@ -5,6 +5,7 @@
 - [Malpensa](#malpensa)
 - [Bergamo](#bergamo)
 - [Torino](#torino)
+- [Venezia](#venezia)
 
 <br>
 
@@ -157,3 +158,38 @@
 ###  Parcheggio a Caselle
 
 [Parcheggio Ufficiale](https://ecom.torinoairport.com/park/index/booking)
+
+
+<br>
+
+---
+
+<br>
+
+## Venezia
+
+<br>
+
+### Andata
+
+|                                                                                    | Data       | Orario            | Prezzo  | Compagnia  | Link Prenotazione                                                                                          |
+|-----------------------------------------------------------------------------------------|------------|-------------------|---------|------------|----------------------------------------------------------------------------------------------------------|
+| <img src="https://logos.skyscnr.com/images/airlines/favicon/FR.png" style="width: 28px;">                 | Lun. 07/07      | 09:20 - 11:25     | **45€**     | Ryanair    | [link acquisto](https://www.skyscanner.net/transport_deeplink/4.0/UK/it-IT/EUR/ryan/1/17468.10694.2025-07-07/air/airli/flights?booking_panel_option_guid=8def105d-aea2-460d-9373-3273e90888b6&cabin_class=economy&carriers=-31915&channel=website&client_id=skyscanner_website&commercial_filters=false&fare_type=base_fare&fps_session_id=2270322c-0b3b-4193-9149-4cfaec698f9f&index=0&is_acorn_referral=true&is_multipart=false&is_npt=false&isbp=1&itinerary=flight%7C-31915%7C782%7C17468%7C2025-07-07T09%3A20%7C10694%7C2025-07-07T11%3A25%7C125%7C-%7C-%7CBASIC&operators=-30823&passengers=1&posidx=0&pqid=false&q_datetime_utc=2024-12-31T00%3A20%3A39&q_ids=H4sIAAAAAAAA_-OS5mIpqkzME2Lh2NPBKMXMcSxYoWHOmsNsRkwKjABCFbOSHQAAAA%7C1354671172776852216%7C1&q_sources=JACQUARD&qid=17468-2507070920--31915-0-10694-2507071125&request_id=6e859502-b83e-41aa-9146-681c66725ba3&sort=BEST&stops=0&tabs=CombinedDayView&ticket_price=44.99&pre_redirect_id=e7a14555-7ffb-435e-a964-aa14fbd481b1&redirect_id=6e5977f2-83e1-4529-969b-b2d4ccb07eae) |
+
+<br>
+
+### Ritorno
+
+|                                                                | Data               | Orario           | Prezzo  | Compagnia | Prenotazione                                                                                             |
+|--------------------------------------------------------------------|--------------------|------------------|---------|-----------|---------------------------------------------------------------------------------------------------------|
+| <img src="https://logos.skyscnr.com/images/airlines/favicon/SK.png"  width="28px" height="28px">                 | Mer. 09/07      | 16:50 - 18:55     | **120€**     | SAS    | [link acquisto](https://www.skyscanner.net/transport_deeplink/4.0/UK/it-IT/EUR/sasa/1/10694.17468.2025-07-09/air/airli/flights?booking_panel_option_guid=23600176-ab2e-4c76-8747-bd12b04a7ae8&cabin_class=economy&carriers=-31901&channel=website&client_id=skyscanner_website&commercial_filters=false&fare_type=base_fare&fps_session_id=2a695211-ac50-4d30-bd70-876f93e48d3f&index=0&is_acorn_referral=true&is_multipart=false&is_npt=false&isbp=1&itinerary=flight%7C-31901%7C2691%7C10694%7C2025-07-09T16%3A50%7C17468%7C2025-07-09T18%3A55%7C125%7CNHDOGHT%7CN%7CLEMEA&operators=-31901&passengers=1&posidx=1&pqid=false&q_datetime_utc=2024-12-31T00%3A21%3A05&q_ids=H4sIAAAAAAAA_-OS4mIpTixOFGLmOBYsxczR7aDQ8GjbYTYjJgVGAOn2OcwcAAAA%7C1743079300710764836%7C2&q_sources=JACQUARD&qid=10694-2507091650--31901-0-17468-2507091855&request_id=1d54d02f-dc1d-4bd0-b7be-70c52503b462&sort=BEST&stops=0&tabs=CombinedDayView&ticket_price=120.59&pre_redirect_id=dbf0fc07-4088-4abd-ad8d-b4354ebf8b2a&redirect_id=b6e3294a-26d7-4b6f-bc31-5a7f0811bcd3) |
+| <img src="https://logos.skyscnr.com/images/airlines/favicon/SK.png" width="28px" height="28px" >                 | Gio. 10/07      | 16:50 - 18:55    | **120€**    | SAS  | [link acquisto](https://www.skyscanner.net/transport_deeplink/4.0/UK/it-IT/EUR/sasa/1/10694.17468.2025-07-10/air/airli/flights?booking_panel_option_guid=0dd2bedb-a37a-4808-9c45-43ad1675112d&cabin_class=economy&carriers=-31901&channel=website&client_id=skyscanner_website&commercial_filters=false&fare_type=base_fare&fps_session_id=d9e0fa25-c5fb-426f-9067-fa17eaaa3fb1&index=0&is_acorn_referral=true&is_multipart=false&is_npt=false&isbp=1&itinerary=flight%7C-31901%7C2691%7C10694%7C2025-07-10T16%3A50%7C17468%7C2025-07-10T18%3A55%7C125%7CNHDOGHT%7CN%7CLEMEA&operators=-31901&passengers=1&posidx=1&pqid=false&q_datetime_utc=2024-12-31T00%3A21%3A17&q_ids=H4sIAAAAAAAA_-OS4mIpTixOFGLmOBYsxczR7aDQ0LrnMJsRkwIjAAUAZ7IcAAAA%7C2617486547089712543%7C2&q_sources=JACQUARD&qid=10694-2507101650--31901-0-17468-2507101855&request_id=bb843914-5adc-441b-b103-5772a03cdc1d&sort=BEST&stops=0&tabs=CombinedDayView&ticket_price=120.59&pre_redirect_id=602d8dde-eaf1-41e7-b222-a1b270fcb7d6&redirect_id=e9d88459-7e2d-4b45-9838-6bb36217b743) |
+
+<br>
+
+###  Parcheggio a Venezia
+
+[Parcheggio Ufficiale](https://parcheggi.veneziaairport.it/)
+
+
+<br><br>
